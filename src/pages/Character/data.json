@@ -1,0 +1,16 @@
+{
+  "serotina": {
+    "name": "Serotina",
+    "links": {
+      "twitch": "https://twitch.tv/Serotina",
+      "twitter": "https://twitter.com/SerotinaVT",
+      "youtube": "https://www.youtube.com/user/ChocoMinaChan"
+    },
+    "avatar": "/characters/serotina/avatar.jpg",
+    "gallery": [
+      "/characters/serotina/thigh_vid.mp4",
+      "/characters/serotina/sero_nnn.jpg"
+    ],
+    "description": "🌸 Hi, my name is Serotina, but you can just call me Sero!!\n🌸 I'm a virtual youtuber & streamer that wants to become an idol one day! Please support me in this journey by following me!"
+  }
+}
